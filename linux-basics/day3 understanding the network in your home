@@ -1,0 +1,124 @@
+```markdown
+# Day 3: Understanding the Network Inside Your Home
+
+## Who This Guide Is For
+
+This guide is for regular people who may not feel comfortable with technology yet.
+
+It is for the parent trying to understand the internet in their home.
+
+It is for the adult changing careers later in life.
+
+It is for the worker who feels like technology moved too fast.
+
+It is for the person who uses Wi-Fi every day but has never really been shown how it works.
+
+You do not need an IT background.
+
+You do not need to memorize technical terms.
+
+You do not need to understand everything immediately.
+
+The goal today is simple:
+
+Learn what a home network actually is and become more comfortable with the technology already surrounding you every day.
+
+This is not about becoming a networking expert.
+
+This is about replacing intimidation with understanding.
+
+---
+
+## What We Are Doing Today
+
+Today we are going to explore the network inside your home.
+
+We are going to learn:
+- what a router actually does
+- how Wi-Fi connects devices
+- how your devices reach the internet
+- what an IP address is
+- how to safely look at devices connected to your network
+- why home networks matter in cybersecurity
+
+You are not expected to memorize everything today.
+
+You are simply becoming familiar with systems that most people use every day without understanding.
+
+By the end of this guide, you should feel more confident around networking terms and less intimidated by the technology inside your own home.
+```
+---
+
+## Before We Begin
+
+Most people use the internet every single day without ever being taught how it actually works.
+
+That is normal.
+
+You are not “behind.”
+
+Technology became part of everyday life much faster than most people were ever trained for.
+
+The good news is:
+
+You do not need to become an engineer to understand the basics of networking.
+
+You only need to understand enough to:
+- recognize how devices connect
+- understand the role of your router
+- identify common security risks
+- feel more comfortable around technology
+
+Cybersecurity starts with awareness.
+
+And awareness starts with understanding your own environment.
+
+Today we are going to slow everything down and explain networking in normal language.
+
+---
+
+## What Is A Home Network?
+
+A home network is simply a group of devices connected together so they can communicate and access the internet.
+
+Your home network probably already includes:
+- phones
+- laptops
+- desktop computers
+- smart TVs
+- streaming devices
+- tablets
+- gaming consoles
+- printers
+- smart speakers
+- security cameras
+
+Most of these devices connect through your Wi-Fi router.
+
+The router acts like a traffic manager for your home internet connection.
+
+It helps devices:
+- talk to each other
+- reach websites
+- send information
+- receive information safely
+
+Without a router, most home devices would not be able to share the internet connection properly.
+
+---
+
+## Think Of Your Network Like A Neighborhood
+
+Here is a simple way to think about it:
+  
+Your home network = your digital neighborhood
+Your router = the neighborhood traffic officer
+Your devices = the homes inside the neighborhood
+The internet = the rest of the world outside the neighborhood
+IP addresses = mailing addresses for devices so data knows where to go
+
+Every connected device needs its own address so information knows where to go.
+
+That address is called an IP address.
+
+We will explore that more later.
