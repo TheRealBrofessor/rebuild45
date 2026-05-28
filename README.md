@@ -23,7 +23,7 @@ Your main curriculum work is in the `linux-basics/` folder.
 
 1. [Day 1 — Initial Project Structure](day1/README.md)
 2. [Day 2 — Trying Linux From a USB Drive](linux-basics/day2-linux-basics.md)
-3. [Day 3 — Understanding the Network Inside Your Home](linux-basics/day3%20understanding%20the%20network%20in%20your%20home)
+3. [Day 3 — Understanding the Network Inside Your Home](linux-basics/day3-understanding-home-network.md)
 
 ## Repo Structure
 
@@ -39,7 +39,7 @@ rebuild45/
 │   └── README.md
 └── linux-basics/
     ├── day2-linux-basics.md
-    └── day3 understanding the network in your home
+    └── day3-understanding-home-network.md
 ```
 
 ## Important Note
