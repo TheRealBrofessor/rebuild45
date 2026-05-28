@@ -15,10 +15,38 @@ This project is designed for adults who feel left behind by:
 The goal is not turning people into elite hackers overnight.
 The goal is removing fear and replacing it with familiarity.
 
-## Current Curriculum
-- Day 1 — Reframing Technology
-- Day 2 — Linux Basics for Complete Beginners
-- Day 3 — Understanding Your Home Network
+## Start Here
+
+Your main curriculum work is in the `linux-basics/` folder.
+
+### Current Lessons
+
+1. [Day 1 — Initial Project Structure](day1/README.md)
+2. [Day 2 — Trying Linux From a USB Drive](linux-basics/day2-linux-basics.md)
+3. [Day 3 — Understanding the Network Inside Your Home](linux-basics/day3%20understanding%20the%20network%20in%20your%20home)
+
+## Repo Structure
+
+```text
+rebuild45/
+├── README.md
+├── roadmap.md
+├── day1/
+│   └── README.md
+├── day2/
+│   └── README.md
+├── day3/
+│   └── README.md
+└── linux-basics/
+    ├── day2-linux-basics.md
+    └── day3 understanding the network in your home
+```
+
+## Important Note
+
+The full written lessons are not lost. They are stored under `linux-basics/`.
+
+The `day2/` and `day3/` folders are navigation folders only, so the main README can stay clean while still pointing to the full curriculum files.
 
 ## Project Philosophy
 Technology should be understandable.
