@@ -1,19 +1,9 @@
 # Day 3 — Understanding Your Home Network
 
-## Goal
-Understand the invisible systems already operating inside your home.
+## Main Lesson
 
-## Topics
-- What a router actually does
-- What Wi-Fi really is
-- How devices communicate
-- What an IP address means
-- Why home networks are targeted
-- How to view devices on a network safely
+The full Day 3 curriculum is located here:
 
-## Simple Analogy
-- Your home network = your neighborhood
-- Your router = the traffic manager
-- Your devices = homes inside the neighborhood
-- The internet = the outside world
-- IP addresses = street addresses for devices
+[Open the complete Day 3 lesson](../linux-basics/day3%20understanding%20the%20network%20in%20your%20home)
+
+This navigation file exists to keep the curriculum organized while preserving the full lesson structure inside the `linux-basics/` folder.
