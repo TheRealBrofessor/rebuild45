@@ -42,12 +42,6 @@ rebuild45/
     └── day3-understanding-home-network.md
 ```
 
-## Important Note
-
-The full written lessons are not lost. They are stored under `linux-basics/`.
-
-The `day2/` and `day3/` folders are navigation folders only, so the main README can stay clean while still pointing to the full curriculum files.
-
 ## Project Philosophy
 Technology should be understandable.
 Cybersecurity should not feel gatekept.
